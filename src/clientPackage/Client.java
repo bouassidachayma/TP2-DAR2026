@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Client5 {
+public class Client {
 
     // nombre, opérateur (+ - * /), nombre ; espaces facultatifs
     static final Pattern SYNTAXE = Pattern.compile(

@@ -4,7 +4,7 @@ import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Server5 {
+public class Server {
 
     public static void main(String[] args) {
         try {
